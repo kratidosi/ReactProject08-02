@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1071,
+      "name": [
+        "Krati Dosi"
+      ],
+      "email": [
+        "Kratidosi28@gmail.com"
+      ],
+      "salary": [
+        "40000"
+      ]
+    },
+    {
+      "id": 1123,
+      "name": [
+        "Gagan"
+      ],
+      "email": [
+        "gagan@gmail.com"
+      ],
+      "salary": [
+        "40000"
+      ]
+    },
+    {
+      "id": 1287,
+      "name": [
+        "divya"
+      ],
+      "email": [
+        "divya@gmail.com"
+      ],
+      "salary": [
+        "20000"
+      ]
+    }
+  ]
+}
